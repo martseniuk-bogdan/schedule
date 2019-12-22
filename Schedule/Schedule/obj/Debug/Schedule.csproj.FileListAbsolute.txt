@@ -1,0 +1,10 @@
+C:\Users\ohdud\Desktop\Schedule\Schedule\obj\Debug\Schedule.Form1.resources
+C:\Users\ohdud\Desktop\Schedule\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+C:\Users\ohdud\Desktop\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.cache
+C:\Users\ohdud\Desktop\Schedule\Schedule\bin\Debug\Schedule.exe.config
+C:\Users\ohdud\Desktop\Schedule\Schedule\bin\Debug\Schedule.exe
+C:\Users\ohdud\Desktop\Schedule\Schedule\bin\Debug\Schedule.pdb
+C:\Users\ohdud\Desktop\Schedule\Schedule\obj\Debug\Schedule.exe
+C:\Users\ohdud\Desktop\Schedule\Schedule\obj\Debug\Schedule.pdb
+C:\Users\ohdud\Desktop\Schedule\Schedule\obj\Debug\Schedule.csproj.ResolveComReference.cache
+C:\Users\ohdud\Desktop\Schedule\Schedule\obj\Debug\Schedule.csprojAssemblyReference.cache
